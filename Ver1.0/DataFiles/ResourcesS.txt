@@ -1,0 +1,12 @@
+0 Oil LIQUID ⟴ 10
+1 NaturalGas GAS ⇼ 10
+2 BlackCoal UNDERGROUND ↇ 5
+3 BrownCoal UNDERGROUND ↁ 5
+4 Uranium UNDERGROUND ⊛ 7
+5 Titanium UNDERGROUND ↀ 7
+6 Helium GAS ⦂ 4
+7 Methane GAS ⤧ 4
+8 Diamond UNDERGROUND ⟁ 8
+9 MineralWater LIQUID ↝ 6
+10 SpruceTree ONGROUND ↟ 2
+11 LeafTree ONGROUND ∮ 2
